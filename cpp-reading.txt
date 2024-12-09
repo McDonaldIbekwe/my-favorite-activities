@@ -1,0 +1,5 @@
+Marius Bancila - Modern C++ Programming Cookbook_ Master modern C++ including the latest features of C++23 with 140+ practical recipes-Packt Publishing (2024)
+Nicolai M. Josuttis - C++ Move Semantics - The Complete Guide-Leanpub (2022)
+Nicolai M. Josuttis - C++20 The Complete Guide-leanpub.com (2022)
+Kirill Bobrov - Grokking Concurrency-Manning Publications (2024)
+
