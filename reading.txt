@@ -1,0 +1,4 @@
+(Tech Today) Marc Gregoire - Professional C++-Wiley (2024)
+Marius Bancila - Modern C++ Programming Cookbook_ Master modern C++ including the latest features of C++23 with 140+ practical recipes-Packt Publishing (2024)
+Dogan Ibrahim - Nucleo Boards Programming with the STM32CubeIDE_ Hands-on in more than 50 projects [Team-IRA]-Elektor Verlag (2021)
+Mastering the Arduino Uno R4 progr
